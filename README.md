@@ -1,7 +1,6 @@
-
 # 🦷 Dental Clinic Management System
 
-### Software Engineering — Practical Section 03
+### Software Engineering — Practical Section 02
 
 **Mary Private University | جامعة ماري الخاصة**
 
@@ -11,7 +10,7 @@
 
 **Instructor:** Eng. Hasan Hajjar — م. حسن حجار
 
-**Practical Section:** 03 — الفئة الثالثة
+**Practical Section:** 02 — الفئة الثانية
 
 **Current Version:** v0.1 — Console Prototype
 
@@ -19,7 +18,7 @@
 
 ## نبذة عن المشروع | Project Overview
 
-مشروع تعليمي تطبيقي مخصص لطلاب الفئة الثالثة في مقرر هندسة البرمجيات بجامعة ماري الخاصة، يهدف إلى تطوير نظام لإدارة عيادة الأسنان، من خلال تطبيق مبادئ هندسة البرمجيات عمليًا، بدءًا من تحليل فكرة النظام وتحديد متطلباته، وصولًا إلى التصميم والتنفيذ والاختبار والتحسين التدريجي.
+مشروع تعليمي تطبيقي مخصص لطلاب الفئة الثانية في مقرر هندسة البرمجيات بجامعة ماري الخاصة، يهدف إلى تطوير نظام لإدارة عيادة الأسنان، من خلال تطبيق مبادئ هندسة البرمجيات عمليًا، بدءًا من تحليل فكرة النظام وتحديد متطلباته، وصولًا إلى التصميم والتنفيذ والاختبار والتحسين التدريجي.
 
 This repository contains an educational Dental Clinic Management System developed by Software Engineering students at Mary Private University, Practical Section 03.
 
@@ -98,6 +97,6 @@ The project demonstrates software engineering concepts through iterative develop
 
 **Mary Private University — Software Engineering**
 
-**Practical Section 03**
+**Practical Section 02**
 
 **Supervised by Eng. Hasan Hajjar**
